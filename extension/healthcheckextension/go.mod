@@ -49,7 +49,7 @@ require (
 	github.com/jaegertracing/jaeger v1.53.0 // indirect
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.17.4 // indirect
+	github.com/klauspost/compress v1.17.5 // indirect
 	github.com/knadh/koanf/maps v0.1.1 // indirect
 	github.com/knadh/koanf/providers/confmap v0.1.0 // indirect
 	github.com/knadh/koanf/v2 v2.0.1 // indirect
