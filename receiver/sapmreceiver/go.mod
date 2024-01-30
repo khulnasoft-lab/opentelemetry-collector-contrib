@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/gorilla/mux v1.8.1
 	github.com/jaegertracing/jaeger v1.53.0
-	github.com/klauspost/compress v1.17.4
+	github.com/klauspost/compress v1.17.5
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.93.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/splunk v0.93.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/jaeger v0.93.0
